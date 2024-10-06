@@ -10,3 +10,4 @@ export type Reciepe={
   export type ReciepeList={
     recipes:Reciepe[]
   }
+  
